@@ -1,6 +1,6 @@
 <?php
 if (isset($_POST['email'])) {
-
+    console.log("Message here");
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "aaabduali60@gmail.com";
     $email_subject = "Message from Website";
