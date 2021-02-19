@@ -70,7 +70,9 @@ if (isset($_POST['email'])) {
 ?>
 
     <!-- include your success message below -->
-
+    <script type="text/javascript">
+       window.open('https://google.com', '_blank');
+    </script>
     Thank you for contacting us. We will be in touch with you very soon.
 
 <?php
